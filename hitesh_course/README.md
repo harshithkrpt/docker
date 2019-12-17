@@ -85,3 +85,7 @@ docker build .
 #             mymachine:dockerport
 docker run -p 8000:8000 harshithkrpt/nodeapp
 ```
+
+## Docker Compose Introduction
+
+- app folder introdces docker compose
